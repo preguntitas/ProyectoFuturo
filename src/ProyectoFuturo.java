@@ -1,3 +1,4 @@
+// Practica para Entornos de Desarrollo por Mariano Murcia
 public class ProyectoFuturo {
     public static void main(String[] args) {
         System.out.println("Estudiante " + args[0] + " : " + veredicto(args[1],args[2]));
